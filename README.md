@@ -14,3 +14,8 @@ and Algorithms problems implemented in Java.
 ## Purpose
 This repository is part of my learning journey to build
 strong DSA fundamentals for interviews.
+
+## Code Style
+- Simple Java syntax
+- Beginner-friendly comments
+- Interview-oriented logic

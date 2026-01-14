@@ -3,6 +3,7 @@ public class MaxElement {
     // Problem: Find the maximum element in an array
     // Time Complexity: O(n)
     // Space Complexity: O(1)
+    // Edge Case: Works even if array has one element
 
     public static void main(String[] args) {
         int[] arr = {3, 7, 2, 9, 4};
@@ -19,4 +20,3 @@ public class MaxElement {
     }
 }
 
-// Edge Case: Works even if array has one element

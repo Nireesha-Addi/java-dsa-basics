@@ -3,6 +3,7 @@ public class ReverseArray {
     // Problem: Reverse an array
     // Time Complexity: O(n)
     // Space Complexity: O(1)
+    // Uses two-pointer technique
 
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
