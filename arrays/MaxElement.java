@@ -18,3 +18,5 @@ public class MaxElement {
         System.out.println("Maximum element is: " + max);
     }
 }
+
+// Edge Case: Works even if array has one element
